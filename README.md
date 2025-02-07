@@ -25,7 +25,17 @@ This project applies **K-Means Clustering** to segment customers based on their 
    git clone https://github.com/SweetySeelam2/customer-segmentation-ML.git
    cd customer-segmentation-ML
 
-## Results & Insights
+2️⃣ Install dependencies:
+Copy
+Edit
+pip install -r requirements.txt
+
+3️⃣ Run the script:
+Copy
+Edit
+python customer_segmentation.py
+
+📊 Results & Insights
    5 customer segments identified
    High-income, low-spending customers can be targeted with promotions
    Low-income, high-spending customers are potential frequent shoppers
