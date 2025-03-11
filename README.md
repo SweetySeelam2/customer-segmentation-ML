@@ -26,13 +26,9 @@ This project applies **K-Means Clustering** to segment customers based on their 
    cd customer-segmentation-ML
 
 2️⃣ Install dependencies:
-Copy
-Edit
 pip install -r requirements.txt
 
 3️⃣ Run the script:
-Copy
-Edit
 python customer_segmentation.py
 
 📊 Results & Insights
