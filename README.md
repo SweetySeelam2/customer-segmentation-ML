@@ -29,8 +29,20 @@ pip install -r requirements.txt
 3️⃣ Run the script:
 python customer_segmentation.py
 
-📊 Results & Insights
-   5 customer segments identified:
+📊 Results
+Scatterplot clusters of 5 customer segments identified:
+--Cluster 0 – Light Pink (Center):
+Customers with annual income between $40k–$70k and spending scores of 40–60, representing a balanced group with steady and moderate purchasing behavior.
+--Cluster 1 – Rose/Pink (Bottom Right):
+High-income individuals (≥ $75k) with low spending scores (≤ 40) who are under-engaged and have the potential to be converted into active buyers.
+--Cluster 2 – Purple (Bottom Left):
+Customers earning ≤ $40k with low spending scores (≤ 40) who are budget-conscious and require strong value-driven incentives to spend more.
+--Cluster 3 – Dark Purple (Top Left):
+Low-income consumers (≤ $40k) with high spending scores (≥ 60), likely younger or value-seeking buyers who shop frequently despite financial constraints.
+--Cluster 4 – Deep Dark Purple / Black (Top Right):
+Affluent customers (≥ $70k income) with high spending scores (≥ 60) who are ideal premium buyers and offer the highest revenue potential. & Insights
+
+## Business Insights
 --Cluster 0 (Balanced Income & Spending):
 Maintain loyalty with seasonal discounts, email engagement, and small-value perks.
 --Cluster 1 (High Income, Low Spending):
