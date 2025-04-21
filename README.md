@@ -34,12 +34,12 @@ Typically aged 30–50, these customers have low income ($15k–$60k) and low sp
 ✅ Cluster 4 – Affluent but Low Spend (Very Dark Purple / Black)
 Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (0–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.
 
-🧠 **Business Insights**
+🧠 **Recommendations**
 ✅ Cluster 0 (Balanced Spenders):
 Loyalty programs, cashback, occasional discounts.
 Encourage frequency and upsell to mid-premium segments.
 ✅ Cluster 1 (Premium Customers):
-VIP services, exclusive launches, tailored experiences.
+VIP services, exclusive launches, and tailored experiences.
 Retention is critical — give them a sense of prestige.
 ✅ Cluster 2 (Young High Spenders):
 Trendy, limited-time offers, loyalty points.
