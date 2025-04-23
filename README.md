@@ -1,16 +1,14 @@
-📊 ********Customer Segmentation Using K-Means********
 
-📝 ***Project Overview:***
+   **Customer Segmentation Using K-Means Machine Learning Model**
 
+📝 ***Project Overview:***                                                                                                           
 This project applies an Unsupervised Machine learning model, *K-Means Clustering*, to segment customers based on their *Age, Annual Income, and Spending Score*. It helps businesses tailor their marketing strategies to identify different customer groups.
 
-📂 ***Dataset:***
-
+📂 ***Dataset:***                                                                                                                                        
 ✅ 🔍 Key Features: The dataset contains customer information such as Annual Income(k$), Spending Score(1-100), Age, Gender, and Customer ID.
 ✅ 📄 Source: [Kaggle Mall Customers Dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
-📊 ***Methodology:***
-
+📊 ***Methodology:***                                                                                                                                                   
 ✅ Data Cleaning, Preprocessing, and Visualization
 ✅ Exploratory Data Analysis (EDA)
 ✅ Standardization
@@ -18,14 +16,13 @@ This project applies an Unsupervised Machine learning model, *K-Means Clustering
 ✅ Visual analysis of clusters for Customer Groups
 ✅ Streamlit app for live predictions
 
-💻 ***Technologies:***
+💻 ***Technologies:***                                                                                                                                                        
 ✅ 🐍 Python  
 ✅ 📊 Pandas, NumPy  
 ✅ 📉 Matplotlib, Seaborn  
 ✅ 📡 Scikit-learn  
 
-📊 ***Results:***
-
+📊 ***Results:***                                                                                                                                                      
 Scatterplot clusters of 5 customer segments identified:
 ✅ Cluster 0 – Balanced Spenders (Light Pink)
 Customers aged 30–45 with moderate income ($40k–$70k) and moderate spending scores (40–60). They are stable, regular shoppers forming your core revenue base and are ideal for loyalty and retention strategies.
@@ -38,8 +35,7 @@ Typically aged 30–50, these customers have low income ($15k–$60k) and low sp
 ✅ Cluster 4 – Affluent but Low Spend (Very Dark Purple / Black)
 Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (1–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.
 
-🧠 ***Recommendations:***
-
+🧠 ***Recommendations:***                                                                                                                                                     
 ✅ Cluster 0 (Balanced Spenders):
 Loyalty programs, cashback, occasional discounts.
 Encourage frequency and upsell to mid-premium segments.
@@ -56,8 +52,7 @@ Keep messaging around savings and practicality.
 Personalized re-engagement emails, luxury sampling.
 Focus on what they’re missing, not what they get.
 
-💡 ***Conclusion:***
-
+💡 ***Conclusion:***                                                                                                                                                          
 ✅ Identify marketing & product strategies per cluster.
 ✅ Improve targeting, retention, and revenue.
 ✅ Deployable app for real-time customer input.
@@ -68,12 +63,10 @@ Focus on what they’re missing, not what they get.
 
 📌 For detailed analysis, check the attached Jupyter Notebook(Customer_Segmentation_KMeans_Clustering.ipynb).
 
-📷 ***Visualization Example:***
-
+📷 ***Visualization Example:***                                                                                                                                             
 ![Customer_segment_KMeans_cluster_plot](https://github.com/user-attachments/assets/4aad82c4-b9a3-4d0a-b7e5-9aae31b63f39)
 
-📜 ***How to Run the Project?***
-
+📜 ***How to Run the Project?***                                                                                                                                              
 🚀 Deployment
 1️⃣ Clone this repository:
       git clone https://github.com/SweetySeelam2/customer-segmentation-ML.git
@@ -83,20 +76,17 @@ Focus on what they’re missing, not what they get.
 3️⃣ Run the script: (Run the Streamlit dashboard locally)
       streamlit run app.py
 
-🛠️ ***Files Included:***
-
+🛠️ ***Files Included:***                                                                                                                                                    
 ✅ `Customer_Segmentation_KMeans_Clustering.ipynb` – Jupyter notebook for EDA & clustering
 ✅ `train_model.py` – Train & save KMeans model
 ✅ `model.pkl` – Trained model and scaler
 ✅ `app.py` – Streamlit app
 ✅ `requirements.txt` – Dependencies
 
-🤝 ***Contributing:***
-
+🤝 ***Contributing:***                                                                                                                                                 
 Feel free to fork this repo and create pull requests!
 
-📩 ***Contact:***
-
+📩 ***Contact:***                                                                                                                                                             
 👤 *Name:* Sweety Seelam
 📧 *Email*: sweetyseelam2@gmail.com
 🔗 *LinkedIn:* https://www.linkedin.com/in/sweetyrao670/
