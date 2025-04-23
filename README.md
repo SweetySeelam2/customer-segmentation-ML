@@ -27,13 +27,12 @@ Scatterplot clusters of 5 customer segments identified:
 ✅ Cluster 0 – Balanced Spenders (Light Pink)
 Customers aged 30–45 with moderate income ($40k–$70k) and moderate spending scores (40–60). They are stable, regular shoppers forming your core revenue base and are ideal for loyalty and retention strategies.                                                                                                                                       
 ✅ Cluster 1 – Premium Customers (Pink)
-Young to middle-aged professionals (25–45 years) with high income ($70k–$140k) and very high spending scores (60–100). They are your most profitable segment, responsive to premium offerings, exclusivity, and VIP engagement.                                                                                                                        
-✅ Cluster 2 – High-Spend Value Seekers (Purple)
+Young to middle-aged professionals (25–45 years) with high income ($70k–$140k) and very high spending scores (60–100). They are your most profitable segment, responsive to premium offerings, exclusivity, and VIP engagement.                                                                                                                           ✅ Cluster 2 – High-Spend Value Seekers (Purple)
 Primarily 18–35 year olds with low-to-mid income ($15k–$50k) but high spending scores (60–100). They are highly engaged, trend-driven shoppers who spend frequently despite limited income, making them ideal for budget-friendly premium promotions.                                                                                                  
 ✅ Cluster 3 – Budget-Conscious Segment (Dark Purple)
 Typically aged 30–50, these customers have low income ($15k–$60k) and low spending scores (1–40). They are cautious, value-focused buyers likely to respond to discounts, essentials, and practical deals.                                                                                                                                             
 ✅ Cluster 4 – Affluent but Low Spend (Very Dark Purple / Black)                                                                                                            
-Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (1–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.                                                                                               
+Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (1–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.                                                                                                        
 
 🧠 ***Recommendations:***                                                                                                                                                     
 ✅ Cluster 0 (Balanced Spenders):
@@ -54,7 +53,7 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
 ✅ Identify marketing & product strategies per cluster.                                                                                                                       
 ✅ Improve targeting, retention, and revenue.                                                                                                                                 
 ✅ Deployable app for real-time customer input.                                                                                                                               
-✅ Clustering using K-Means has provided actionable segmentation of your customer base. With focused targeting:
+✅ Clustering using K-Means has provided actionable segmentation of your customer base. With focused targeting:                                                               
       -You can increase revenue by 25–35% from Clusters 1 & 4.                                                                                                                
       -Reduce churn from Clusters 2 & 3 with retention strategies.                                                                                                            
       -Make informed product & marketing investments.                                                                                                                         
@@ -71,7 +70,8 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
 2️⃣ Install dependencies: (Make sure you’re in your project directory, then install all required libraries)
       pip install -r requirements.txt                                                                                                                                       
 3️⃣ Run the script: (Run the Streamlit dashboard locally)
-      streamlit run app.py                                                                                                                                                                                                                 
+      streamlit run app.py                                                                                                                                                    
+
 🛠️ ***Files Included:***                                                                                                                                                    
 ✅ `Customer_Segmentation_KMeans_Clustering.ipynb` – Jupyter notebook for EDA & clustering.                                                                                 
 ✅ `train_model.py` – Train & save KMeans model.                                                                                                                            
