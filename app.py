@@ -46,7 +46,7 @@ segment_notes = {
 
 # UI
 st.title("🧠 Customer Segmentation with KMeans (Machine learning) model")
-st.markdown("Select customer features: Annual income(k$) and Spending score(1-100) to predict their customer segment.\n\n**Note:** Prediction is based on standardized distance to cluster centroid, but not solely on the value ranges of Income or Spending score")
+st.markdown("Select customer features: Age, Annual income(k$) and Spending score(1-100) to predict their customer segment.\n\n**Note:** Prediction is based on standardized distance to cluster centroid, but not solely on the value ranges of Income, Spending score or Age")
 
 age = st.slider("Age", int(df_raw["Age"].min()), int(df_raw["Age"].max()), age_default)
 income = st.slider("Annual Income (k$)", inc_min, inc_max, (inc_min + inc_max) // 2)
