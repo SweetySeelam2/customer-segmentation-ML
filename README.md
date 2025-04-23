@@ -24,15 +24,15 @@ This project applies an Unsupervised Machine learning model, **K-Means Clusterin
 📊 **Results**
 Scatterplot clusters of 5 customer segments identified:
 ✅ Cluster 0 – Balanced Spenders (Light Pink)
-Customers aged 30–45 with moderate income ($40k–$60k) and moderate spending scores (40–60). They are stable, regular shoppers forming your core revenue base and are ideal for loyalty and retention strategies.
+Customers aged 30–45 with moderate income ($40k–$70k) and moderate spending scores (40–60). They are stable, regular shoppers forming your core revenue base and are ideal for loyalty and retention strategies.
 ✅ Cluster 1 – Premium Customers (Pink)
-Young to middle-aged professionals (25–45 years) with high income ($60k–$130k) and very high spending scores (60–100). They are your most profitable segment, responsive to premium offerings, exclusivity, and VIP engagement.
+Young to middle-aged professionals (25–45 years) with high income ($70k–$140k) and very high spending scores (60–100). They are your most profitable segment, responsive to premium offerings, exclusivity, and VIP engagement.
 ✅ Cluster 2 – High-Spend Value Seekers (Purple)
-Primarily 18–35 year olds with low-to-mid income ($15k–$60k) but high spending scores (60–100). They are highly engaged, trend-driven shoppers who spend frequently despite limited income, making them ideal for budget-friendly premium promotions.
+Primarily 18–35 year olds with low-to-mid income ($15k–$50k) but high spending scores (60–100). They are highly engaged, trend-driven shoppers who spend frequently despite limited income, making them ideal for budget-friendly premium promotions.
 ✅ Cluster 3 – Budget-Conscious Segment (Dark Purple)
-Typically aged 30–50, these customers have low income ($15k–$60k) and low spending scores (0–40). They are cautious, value-focused buyers likely to respond to discounts, essentials, and practical deals.
+Typically aged 30–50, these customers have low income ($15k–$60k) and low spending scores (1–40). They are cautious, value-focused buyers likely to respond to discounts, essentials, and practical deals.
 ✅ Cluster 4 – Affluent but Low Spend (Very Dark Purple / Black)
-Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (0–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.
+Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (1–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.
 
 🧠 **Recommendations**
 ✅ Cluster 0 (Balanced Spenders):
