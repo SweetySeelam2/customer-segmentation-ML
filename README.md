@@ -60,7 +60,7 @@ Focus on what they’re missing, not what they get.
    - Reduce churn from Clusters 2 & 3 with retention strategies.
    - Make informed product & marketing investments.
 
-📌 For detailed analysis, check the attached Jupyter Notebook.
+📌 For detailed analysis, check the attached Jupyter Notebook(Customer_Segmentation_KMeans_Clustering.ipynb).
 
 📷 Visualization Example:
 ![Customer_segment_KMeans_cluster_plot](https://github.com/user-attachments/assets/4aad82c4-b9a3-4d0a-b7e5-9aae31b63f39)
