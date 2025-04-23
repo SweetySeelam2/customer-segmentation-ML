@@ -49,7 +49,8 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
       -Keep messaging around savings and practicality.                                                                                                                        
 ✅ Cluster 4 (Affluent but Frugal):
       -Personalized re-engagement emails, luxury sampling.
-      -Focus on what they’re missing, not what they get.                                                                                                                           
+      -Focus on what they’re missing, not what they get.                                                                                                                     
+
 💡 ***Conclusion:***                                                                                                                                                          
 ✅ Identify marketing & product strategies per cluster.                                                                                                                       
 ✅ Improve targeting, retention, and revenue.                                                                                                                                 
