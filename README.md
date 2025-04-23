@@ -1,3 +1,4 @@
+[![Streamlit App](https://img.shields.io/badge/🚀_Live_App-Click_Here-brightgreen?style=for-the-badge&logo=streamlit)](https://customer-segmentation-ml.streamlit.app/)
 
    **Customer Segmentation Using K-Means Machine Learning Model**
 
