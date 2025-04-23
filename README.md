@@ -63,7 +63,7 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
 📌 For detailed analysis, check the attached Jupyter Notebook(Customer_Segmentation_KMeans_Clustering.ipynb).                   
 
 📷 ***Visualization Example:***                                                                                                                                               
-![Customer_segment_KMeans_cluster_plot](https://github.com/user-attachments/assets/4aad82c4-b9a3-4d0a-b7e5-9aae31b63f39)
+![Customer_segment_KMeans_cluster_plot](https://github.com/SweetySeelam2/customer-segmentation-ML/blob/39a895a2ea35d23d0a9a51d44a7226e5b13e26f8/images/Customer_segment_KMeans_cluster_plot.png)
 
 📜 ***How to Run the Project?***                                                                                                                                              🚀 Deployment                                                                                                                                                                
 1️⃣ Clone this repository:
