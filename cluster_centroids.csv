@@ -1,15 +1,13 @@
-<<<<<<< HEAD
-Age,Annual Income (k$),Spending Score (1-100),Cluster,Label,Color,Plot Position
-55.27586206896552,47.62068965517241,41.70689655172414,0,Balanced Spenders,Light Pink,Center
-32.875,86.1,81.525,1,Premium Customers,Pink,Top-right
-25.769230769230774,26.115384615384613,74.84615384615384,2,High-Spend Value Seekers,Purple,Top-left
-26.73333333333333,54.31111111111112,40.91111111111111,3,Budget-Conscious Segment,Dark Purple,Bottom-left
-44.38709677419355,89.77419354838709,18.483870967741932,4,Affluent but Low Spend,Black,Bottom-right
-=======
-Age,Annual Income (k$),Spending Score (1-100),Cluster,Label,Color,Plot Position
-55.27586206896552,47.62068965517241,41.70689655172414,0,Balanced Spenders,Light Pink,Center
-32.875,86.1,81.525,1,Premium Customers,Pink,Top-right
-25.769230769230774,26.115384615384613,74.84615384615384,2,High-Spend Value Seekers,Purple,Top-left
-26.73333333333333,54.31111111111112,40.91111111111111,3,Budget-Conscious Segment,Dark Purple,Bottom-left
-44.38709677419355,89.77419354838709,18.483870967741932,4,Affluent but Low Spend,Black,Bottom-right
->>>>>>> 33ad6eab409b2fb681203bc4b60e2988192331fe
+Cluster,Age,Annual Income (k$),Spending Score (1-100),Label,Color,Plot Position
+0,55.28,47.62,41.71,Balanced Spenders,Light Pink,Center
+1,32.88,86.10,81.53,Premium Customers,Pink,Top-right
+2,25.77,26.12,74.85,High-Spend Value Seekers,Purple,Top-left
+3,26.73,54.31,40.91,Budget-Conscious Segment,Dark Purple,Bottom-left
+4,44.39,89.77,18.48,Affluent but Low Spend,Black,Bottom-right
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
