@@ -2,7 +2,7 @@
 
    **Customer Segmentation Using K-Means Machine Learning Model**
 
---
+--------------------------------------------------------------------------
 
 📝 ***Project Overview:***                                                                                                           
 This project applies an Unsupervised Machine learning model, *K-Means Clustering*, to segment customers based on their *Age, Annual Income, and Spending Score*. It helps businesses tailor their marketing strategies to identify different customer groups.
