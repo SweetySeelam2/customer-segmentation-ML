@@ -7,13 +7,13 @@
 📝 ***Project Overview:***                                                                                                           
 This project applies an Unsupervised Machine learning model, *K-Means Clustering*, to segment customers based on their *Age, Annual Income, and Spending Score*. It helps businesses tailor their marketing strategies to identify different customer groups.
 
---
+--------------------------------------------------------------------------
 
 📂 ***Dataset:***                                                                                                                                        
 ✅ 🔍 Key Features: The dataset contains customer information such as Annual Income(k$), Spending Score(1-100), Age, Gender, and Customer ID.                               
 ✅ 📄 Source: [Kaggle Mall Customers Dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
---
+--------------------------------------------------------------------------
 
 📊 ***Methodology:***                                                                                                                                                   
 ✅ Data Cleaning, Preprocessing, and Visualization                                                                                                                         
@@ -23,7 +23,7 @@ This project applies an Unsupervised Machine learning model, *K-Means Clustering
 ✅ Visual analysis of clusters for Customer Groups                                                                                                                            
 ✅ Streamlit app for live predictions                                                                                                                                        
 
---
+--------------------------------------------------------------------------
 
 💻 ***Technologies:***                                                                                                                                                        
 ✅ 🐍 Python  
@@ -31,7 +31,7 @@ This project applies an Unsupervised Machine learning model, *K-Means Clustering
 ✅ 📉 Matplotlib, Seaborn  
 ✅ 📡 Scikit-learn  
 
---
+--------------------------------------------------------------------------
 
 📊 ***Results:***                                                                                                                                                      
 Scatterplot clusters of 5 customer segments identified:                                                                                                                     
@@ -46,14 +46,15 @@ Typically aged 30–50, these customers have low income ($15k–$60k) and low sp
 ✅ Cluster 4 – Affluent but Low Spend (Very Dark Purple / Black)                                                                                                            
 Older individuals aged 40–70 with high income ($70k–$140k) but very low spending scores (1–40). This under-engaged segment has strong purchasing power and should be reactivated with personalized luxury offers and exclusive experiences.                                   
 
---                                                                 
+--------------------------------------------------------------------------                                                                
 
 🧠 ***Recommendations:***                                                                                                                                                     
 ✅ Cluster 0 (Balanced Spenders):
       -Loyalty programs, cashback, occasional discounts.
       -Encourage frequency and upsell to mid-premium segments.                                                                                                                
 ✅ Cluster 1 (Premium Customers):
-      -VIP services, exclusive launches, and tailored experiences.                                                                                                                  -Retention is critical — give them a sense of prestige.                                                                                                                 
+      -VIP services, exclusive launches, and tailored experiences.
+      -Retention is critical — give them a sense of prestige.                                                                                                                 
 ✅ Cluster 2 (Young High Spenders):
       -Trendy, limited-time offers, loyalty points.
       -Promote through social media, influencers.                                                                                                                             
@@ -64,7 +65,7 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
       -Personalized re-engagement emails, luxury sampling.
       -Focus on what they’re missing, not what they get.                                                                                                                     
 
---
+--------------------------------------------------------------------------
 
 💡 ***Conclusion:***                                                                                                                                                          
 ✅ Identify marketing & product strategies per cluster.                                                                                                                       
@@ -75,14 +76,16 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
       -Reduce churn from Clusters 2 & 3 with retention strategies.                                                                                                            
       -Make informed product & marketing investments.                                                                                                                         
 
---
+--------------------------------------------------------------------------
 
 📌 For detailed analysis, check the attached Jupyter Notebook(Customer_Segmentation_KMeans_Clustering.ipynb).                   
 
---
+--------------------------------------------------------------------------
 
 📷 ***Visualization Example:***                                                                                                                                               
 ![Customer_segment_KMeans_cluster_plot](https://github.com/SweetySeelam2/customer-segmentation-ML/blob/39a895a2ea35d23d0a9a51d44a7226e5b13e26f8/images/Customer_segment_KMeans_cluster_plot.png)
+
+--------------------------------------------------------------------------
 
 📜 ***How to Run the Project?***                                                                                                                                              🚀 Deployment                                                                                                                                                                
 1️⃣ Clone this repository:
@@ -100,17 +103,19 @@ Older individuals aged 40–70 with high income ($70k–$140k) but very low spen
 ✅ `app.py` – Streamlit app.                                                                                                                                                  
 ✅ `requirements.txt` – Dependencies.                                                                                                                                        
 
---
+--------------------------------------------------------------------------
 
 🤝 ***Contributing:***                                                                                                                                                 
 Feel free to fork this repo and create pull requests!                                                                                                                      
+
+--------------------------------------------------------------------------
 
 📩 ***Contact:***                                                                                                                                                             
 👤 *Name:* Sweety Seelam                                                                                                                                                   
 📧 *Email*: sweetyseelam2@gmail.com                                                                                                                                         
 🔗 *LinkedIn:* https://www.linkedin.com/in/sweetyrao670/
 
---
+--------------------------------------------------------------------------
 
 ## 📜 License & Usage
 
