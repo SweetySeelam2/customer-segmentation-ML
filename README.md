@@ -117,17 +117,8 @@ Feel free to fork this repo and create pull requests!
 
 --------------------------------------------------------------------------
 
-## 📜 License & Usage
+## 🔒 Proprietary & All Rights Reserved
 
-This project is protected under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+© 2025 Sweety Seelam. This work is proprietary and protected by copyright. All content, models, code, and visuals are © 2025 Sweety Seelam. No part of this project, app, code, or analysis may be copied, reproduced, distributed, or used for any purpose—commercial or otherwise—without explicit written permission from the author.
 
-You may:
-- ✔️ View and use this work for personal, non-commercial learning or educational purposes
-- ✔️ Adapt it with **credit to the original author**
-
-You may **not**:
-- ❌ Use this for commercial purposes
-- ❌ Re-sell, re-post, or present this as your own work without written permission
-
-🔗 [License details](https://creativecommons.org/licenses/by-nc/4.0/)  
-© 2024 Sweety Seelam. All rights reserved.
+For licensing, commercial use, or collaboration inquiries, please contact: Email: sweetyseelam2@gmail.com
